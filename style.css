@@ -3,7 +3,7 @@
 .cabecalho.cabecalho-imagem{width: 20%;}
 .cabecalho-lista-item{display: inline-block;margin: 0% 16px;}
 .imagem-escola {width: 25%;}
-.escola{background-image:linear-gradient(aqua,rgb(36, 11, 130));color:aliceblue;display: flex;}
+.escola{background-image:linear-gradient(aqua,rgb(36, 11, 130);color:aliceblue;display: flex;}
 .escola-conteudo{width:35%;}
 .escola{display:flex;justify-content: center;align-itens: center;padding: 24%px 0;}
 .escola-título{padding: 24px 0%}
