@@ -9,7 +9,7 @@
     .cabecalho-lista-item{display: inline-block;margin: 0% 16px;
     }
     .imagem-escola {width: 25%;}
-    .escola{background-image:linear-gradient(rgb(5, 199, 199),rgb(68, 194, 135));color: aliceblue;display: flex;}
+    .escola{background-image:linear-gradient(rgb(5, 199, 199),rgb(14, 225, 127));color: aliceblue;display: flex;}
     
     .escola-conteudo{width:35%;}
     .escola{display:flex;justify-content: center;align-items: center;padding: 24px 0;}
